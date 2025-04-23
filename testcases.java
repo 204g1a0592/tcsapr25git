@@ -7,4 +7,6 @@ class Testcases {
 public vod testmethod2(){
   assert false;
 }
+  public vod testmethod4(){
+  assert false;
 }
